@@ -8,9 +8,11 @@
 # /!\ make sure to clear output of notebooks before pushing
 
 # --------- LAB 00 ---------
-# Lab00/
+Lab00/*
+!Lab00/Lab00.ipynb
 # --------- LAB 01 ---------
-# Lab01/
+Lab01/*
+!Lab01/Lab01.ipynb
 # --------- LAB 02 ---------
 Lab02/*
 !Lab02/Prelab02.ipynb
