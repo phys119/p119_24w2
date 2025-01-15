@@ -2,9 +2,9 @@
 # ------------ PHYS 119 specific folders/files ------------
 # ---------------------------------------------------------
 
-# Uncomment paths starting with "!" to create files (and parent folder
-# in remote repository. Do this and push your commit before editing the actual
-# so that changes are actually recorded.
+# Uncomment paths starting with "!" to create file(s) (and parent folder
+# in remote repository. Do that and push your commit before editing the actual
+# file(s) so that changes are actually recorded.
 
 # /!\ make sure to clear output of notebooks before pushing
 
