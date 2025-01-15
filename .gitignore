@@ -2,8 +2,9 @@
 # ------------ PHYS 119 specific folders/files ------------
 # ---------------------------------------------------------
 
-# comment out to create folder (and push all content) in remote repository
-# and uncomment paths starting with "!" to create files in remote repository
+# Uncomment paths starting with "!" to create files (and parent folder
+# in remote repository. Do this and push your commit before editing the actual
+# so that changes are actually recorded.
 
 # /!\ make sure to clear output of notebooks before pushing
 
