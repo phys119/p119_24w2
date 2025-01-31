@@ -28,9 +28,12 @@ Lab03/*
 !Lab03/lab03_1.csv
 # --------- LAB 04 ---------
 Lab04/*
-# !Lab04/Lab04.ipynb
+!Lab04/Lab04.ipynb
 # --------- LAB 05 ---------
 Lab05/*
+!Lab05/Prelab05.ipynb
+!Lab05/prelab05_ohms_law.csv
+!Lab05/prelab05_hookes_law.csv
 # --------- LAB 06 ---------
 Lab06/*
 # --------- LAB 07 ---------
