@@ -1,4 +1,4 @@
-Dx,dDx,F,dF
+delta_x,del_delta_x,f_s,del_f_s
 m,m,N,N
 0,0.01,0,0.02
 0.12,0.01,0.26,0.02
